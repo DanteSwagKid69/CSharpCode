@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dante.vonmatern\\github-classroom\\TE21D-civ-prog-1\\prog-1-DanteSwagKid69\\Eget\\HangMan\\HangMan.csproj",
+      "projectUniqueName": "C:\\Users\\dante.vonmatern\\Desktop\\CSharpCode\\HangMan\\HangMan.csproj",
       "projectName": "HangMan",
-      "projectPath": "C:\\Users\\dante.vonmatern\\github-classroom\\TE21D-civ-prog-1\\prog-1-DanteSwagKid69\\Eget\\HangMan\\HangMan.csproj",
+      "projectPath": "C:\\Users\\dante.vonmatern\\Desktop\\CSharpCode\\HangMan\\HangMan.csproj",
       "packagesPath": "C:\\Users\\dante.vonmatern\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dante.vonmatern\\github-classroom\\TE21D-civ-prog-1\\prog-1-DanteSwagKid69\\Eget\\HangMan\\obj\\",
+      "outputPath": "C:\\Users\\dante.vonmatern\\Desktop\\CSharpCode\\HangMan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,7 +57,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -66,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

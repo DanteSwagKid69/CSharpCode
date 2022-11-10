@@ -1,0 +1,16 @@
+C:\Users\dante.vonmatern\github-classroom\TE21D-civ-prog-1\prog-1-DanteSwagKid69\Eget\SänkaSkepp\bin\Debug\net5.0\SänkaSkepp.exe
+C:\Users\dante.vonmatern\github-classroom\TE21D-civ-prog-1\prog-1-DanteSwagKid69\Eget\SänkaSkepp\bin\Debug\net5.0\SänkaSkepp.deps.json
+C:\Users\dante.vonmatern\github-classroom\TE21D-civ-prog-1\prog-1-DanteSwagKid69\Eget\SänkaSkepp\bin\Debug\net5.0\SänkaSkepp.runtimeconfig.json
+C:\Users\dante.vonmatern\github-classroom\TE21D-civ-prog-1\prog-1-DanteSwagKid69\Eget\SänkaSkepp\bin\Debug\net5.0\SänkaSkepp.runtimeconfig.dev.json
+C:\Users\dante.vonmatern\github-classroom\TE21D-civ-prog-1\prog-1-DanteSwagKid69\Eget\SänkaSkepp\bin\Debug\net5.0\SänkaSkepp.dll
+C:\Users\dante.vonmatern\github-classroom\TE21D-civ-prog-1\prog-1-DanteSwagKid69\Eget\SänkaSkepp\bin\Debug\net5.0\ref\SänkaSkepp.dll
+C:\Users\dante.vonmatern\github-classroom\TE21D-civ-prog-1\prog-1-DanteSwagKid69\Eget\SänkaSkepp\bin\Debug\net5.0\SänkaSkepp.pdb
+C:\Users\dante.vonmatern\github-classroom\TE21D-civ-prog-1\prog-1-DanteSwagKid69\Eget\SänkaSkepp\obj\Debug\net5.0\SänkaSkepp.csproj.AssemblyReference.cache
+C:\Users\dante.vonmatern\github-classroom\TE21D-civ-prog-1\prog-1-DanteSwagKid69\Eget\SänkaSkepp\obj\Debug\net5.0\SänkaSkepp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante.vonmatern\github-classroom\TE21D-civ-prog-1\prog-1-DanteSwagKid69\Eget\SänkaSkepp\obj\Debug\net5.0\SänkaSkepp.AssemblyInfoInputs.cache
+C:\Users\dante.vonmatern\github-classroom\TE21D-civ-prog-1\prog-1-DanteSwagKid69\Eget\SänkaSkepp\obj\Debug\net5.0\SänkaSkepp.AssemblyInfo.cs
+C:\Users\dante.vonmatern\github-classroom\TE21D-civ-prog-1\prog-1-DanteSwagKid69\Eget\SänkaSkepp\obj\Debug\net5.0\SänkaSkepp.csproj.CoreCompileInputs.cache
+C:\Users\dante.vonmatern\github-classroom\TE21D-civ-prog-1\prog-1-DanteSwagKid69\Eget\SänkaSkepp\obj\Debug\net5.0\SänkaSkepp.dll
+C:\Users\dante.vonmatern\github-classroom\TE21D-civ-prog-1\prog-1-DanteSwagKid69\Eget\SänkaSkepp\obj\Debug\net5.0\ref\SänkaSkepp.dll
+C:\Users\dante.vonmatern\github-classroom\TE21D-civ-prog-1\prog-1-DanteSwagKid69\Eget\SänkaSkepp\obj\Debug\net5.0\SänkaSkepp.pdb
+C:\Users\dante.vonmatern\github-classroom\TE21D-civ-prog-1\prog-1-DanteSwagKid69\Eget\SänkaSkepp\obj\Debug\net5.0\SänkaSkepp.genruntimeconfig.cache

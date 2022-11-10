@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SänkaSkepp/1.0.0": {
+        "runtime": {
+          "SänkaSkepp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SänkaSkepp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

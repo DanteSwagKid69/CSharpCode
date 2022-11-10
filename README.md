@@ -1,2 +1,2 @@
 # CSharpCode
-my csharp code
+my csharp code for my projects

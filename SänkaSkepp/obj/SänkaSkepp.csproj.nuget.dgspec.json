@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dante.vonmatern\\github-classroom\\TE21D-civ-prog-1\\prog-1-DanteSwagKid69\\Eget\\SänkaSkepp\\SänkaSkepp.csproj": {}
+    "C:\\Users\\dante.vonmatern\\Desktop\\CSharpCode\\SänkaSkepp\\SänkaSkepp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dante.vonmatern\\github-classroom\\TE21D-civ-prog-1\\prog-1-DanteSwagKid69\\Eget\\SänkaSkepp\\SänkaSkepp.csproj": {
+    "C:\\Users\\dante.vonmatern\\Desktop\\CSharpCode\\SänkaSkepp\\SänkaSkepp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dante.vonmatern\\github-classroom\\TE21D-civ-prog-1\\prog-1-DanteSwagKid69\\Eget\\SänkaSkepp\\SänkaSkepp.csproj",
+        "projectUniqueName": "C:\\Users\\dante.vonmatern\\Desktop\\CSharpCode\\SänkaSkepp\\SänkaSkepp.csproj",
         "projectName": "SänkaSkepp",
-        "projectPath": "C:\\Users\\dante.vonmatern\\github-classroom\\TE21D-civ-prog-1\\prog-1-DanteSwagKid69\\Eget\\SänkaSkepp\\SänkaSkepp.csproj",
+        "projectPath": "C:\\Users\\dante.vonmatern\\Desktop\\CSharpCode\\SänkaSkepp\\SänkaSkepp.csproj",
         "packagesPath": "C:\\Users\\dante.vonmatern\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dante.vonmatern\\github-classroom\\TE21D-civ-prog-1\\prog-1-DanteSwagKid69\\Eget\\SänkaSkepp\\obj\\",
+        "outputPath": "C:\\Users\\dante.vonmatern\\Desktop\\CSharpCode\\SänkaSkepp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,7 +50,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

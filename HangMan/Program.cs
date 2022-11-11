@@ -16,15 +16,43 @@ namespace HangMan
 
             while (gameIsAlive)
             {
+                string word = "hej";
                 Console.ResetColor();
                 int wrongGuessesLeft = 9;
-                //choosing a random word
-                string word = randomWordsArray[numGen.Next(0, 525)];
 
+                Console.WriteLine("Vill du spela med ett random ord, eller eget [r/e]");
+                string chooseAnswer = Console.ReadLine();
+                while (!GoodInput(chooseAnswer))
+                {
+                    while (true)
+                    {
+                        if (chooseAnswer != "r" || chooseAnswer != "e")
+                        {
+                            Console.WriteLine("Du skrev inte in ett av elternativen, försök igen: ");
+                            chooseAnswer = Console.ReadLine();
+                        }
+                        else
+                        {
+                            break;
+                        }
+                    }
+                    break;
+                }
+                switch (chooseAnswer)
+                {
+                    case "r":
+                        //choosing a random word
+                        word = randomWordsArray[numGen.Next(0, 525)];
+                        break;
+
+                    case "e":
+                        Console.WriteLine("Skriv in ett egt ord");
+                        word = Console.ReadLine();
+                        break;
+                }
                 char[] hiddenLetterArray = new char[word.Length];
                 List<char> guessedLettersList = new List<char>();
                 guessedLettersList.Add('\x20');
-
                 Console.Clear();
 
                 //fyll hiddenletterArray
@@ -306,4 +334,6 @@ namespace HangMan
             }
         }
     }
+
+
 }

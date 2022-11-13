@@ -1,0 +1,15 @@
+C:\Users\dante.vonmatern\Desktop\CSharpCode\roomBooking\bin\Debug\net7.0\roomBooking.exe
+C:\Users\dante.vonmatern\Desktop\CSharpCode\roomBooking\bin\Debug\net7.0\roomBooking.deps.json
+C:\Users\dante.vonmatern\Desktop\CSharpCode\roomBooking\bin\Debug\net7.0\roomBooking.runtimeconfig.json
+C:\Users\dante.vonmatern\Desktop\CSharpCode\roomBooking\bin\Debug\net7.0\roomBooking.dll
+C:\Users\dante.vonmatern\Desktop\CSharpCode\roomBooking\bin\Debug\net7.0\roomBooking.pdb
+C:\Users\dante.vonmatern\Desktop\CSharpCode\roomBooking\obj\Debug\net7.0\roomBooking.csproj.AssemblyReference.cache
+C:\Users\dante.vonmatern\Desktop\CSharpCode\roomBooking\obj\Debug\net7.0\roomBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante.vonmatern\Desktop\CSharpCode\roomBooking\obj\Debug\net7.0\roomBooking.AssemblyInfoInputs.cache
+C:\Users\dante.vonmatern\Desktop\CSharpCode\roomBooking\obj\Debug\net7.0\roomBooking.AssemblyInfo.cs
+C:\Users\dante.vonmatern\Desktop\CSharpCode\roomBooking\obj\Debug\net7.0\roomBooking.csproj.CoreCompileInputs.cache
+C:\Users\dante.vonmatern\Desktop\CSharpCode\roomBooking\obj\Debug\net7.0\roomBooking.dll
+C:\Users\dante.vonmatern\Desktop\CSharpCode\roomBooking\obj\Debug\net7.0\refint\roomBooking.dll
+C:\Users\dante.vonmatern\Desktop\CSharpCode\roomBooking\obj\Debug\net7.0\roomBooking.pdb
+C:\Users\dante.vonmatern\Desktop\CSharpCode\roomBooking\obj\Debug\net7.0\roomBooking.genruntimeconfig.cache
+C:\Users\dante.vonmatern\Desktop\CSharpCode\roomBooking\obj\Debug\net7.0\ref\roomBooking.dll

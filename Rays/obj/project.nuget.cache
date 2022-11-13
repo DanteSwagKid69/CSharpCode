@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "joN080UZL2DvXenlyJ5itKZllha2r5oEq+/XvH2sgbUCTlQTRS+7lKsSdB4A0MqqjNjUZ/x9V3duYTxR+ndHGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dante.vonmatern\\Desktop\\CSharpCode\\Rays\\Rays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dante.vonmatern\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\dante.vonmatern\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

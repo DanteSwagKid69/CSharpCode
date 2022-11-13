@@ -1,0 +1,15 @@
+C:\Users\dante.vonmatern\Desktop\CSharpCode\testingTrigometry\bin\Debug\net7.0\testingTrigometry.exe
+C:\Users\dante.vonmatern\Desktop\CSharpCode\testingTrigometry\bin\Debug\net7.0\testingTrigometry.deps.json
+C:\Users\dante.vonmatern\Desktop\CSharpCode\testingTrigometry\bin\Debug\net7.0\testingTrigometry.runtimeconfig.json
+C:\Users\dante.vonmatern\Desktop\CSharpCode\testingTrigometry\bin\Debug\net7.0\testingTrigometry.dll
+C:\Users\dante.vonmatern\Desktop\CSharpCode\testingTrigometry\bin\Debug\net7.0\testingTrigometry.pdb
+C:\Users\dante.vonmatern\Desktop\CSharpCode\testingTrigometry\obj\Debug\net7.0\testingTrigometry.csproj.AssemblyReference.cache
+C:\Users\dante.vonmatern\Desktop\CSharpCode\testingTrigometry\obj\Debug\net7.0\testingTrigometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante.vonmatern\Desktop\CSharpCode\testingTrigometry\obj\Debug\net7.0\testingTrigometry.AssemblyInfoInputs.cache
+C:\Users\dante.vonmatern\Desktop\CSharpCode\testingTrigometry\obj\Debug\net7.0\testingTrigometry.AssemblyInfo.cs
+C:\Users\dante.vonmatern\Desktop\CSharpCode\testingTrigometry\obj\Debug\net7.0\testingTrigometry.csproj.CoreCompileInputs.cache
+C:\Users\dante.vonmatern\Desktop\CSharpCode\testingTrigometry\obj\Debug\net7.0\testingTrigometry.dll
+C:\Users\dante.vonmatern\Desktop\CSharpCode\testingTrigometry\obj\Debug\net7.0\refint\testingTrigometry.dll
+C:\Users\dante.vonmatern\Desktop\CSharpCode\testingTrigometry\obj\Debug\net7.0\testingTrigometry.pdb
+C:\Users\dante.vonmatern\Desktop\CSharpCode\testingTrigometry\obj\Debug\net7.0\testingTrigometry.genruntimeconfig.cache
+C:\Users\dante.vonmatern\Desktop\CSharpCode\testingTrigometry\obj\Debug\net7.0\ref\testingTrigometry.dll

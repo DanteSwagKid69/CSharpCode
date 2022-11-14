@@ -1,0 +1,15 @@
+C:\Users\dante.vonmatern\Desktop\CSharpCode\Wordle\bin\Debug\net7.0\Wordle.exe
+C:\Users\dante.vonmatern\Desktop\CSharpCode\Wordle\bin\Debug\net7.0\Wordle.deps.json
+C:\Users\dante.vonmatern\Desktop\CSharpCode\Wordle\bin\Debug\net7.0\Wordle.runtimeconfig.json
+C:\Users\dante.vonmatern\Desktop\CSharpCode\Wordle\bin\Debug\net7.0\Wordle.dll
+C:\Users\dante.vonmatern\Desktop\CSharpCode\Wordle\bin\Debug\net7.0\Wordle.pdb
+C:\Users\dante.vonmatern\Desktop\CSharpCode\Wordle\obj\Debug\net7.0\Wordle.csproj.AssemblyReference.cache
+C:\Users\dante.vonmatern\Desktop\CSharpCode\Wordle\obj\Debug\net7.0\Wordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante.vonmatern\Desktop\CSharpCode\Wordle\obj\Debug\net7.0\Wordle.AssemblyInfoInputs.cache
+C:\Users\dante.vonmatern\Desktop\CSharpCode\Wordle\obj\Debug\net7.0\Wordle.AssemblyInfo.cs
+C:\Users\dante.vonmatern\Desktop\CSharpCode\Wordle\obj\Debug\net7.0\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\dante.vonmatern\Desktop\CSharpCode\Wordle\obj\Debug\net7.0\Wordle.dll
+C:\Users\dante.vonmatern\Desktop\CSharpCode\Wordle\obj\Debug\net7.0\refint\Wordle.dll
+C:\Users\dante.vonmatern\Desktop\CSharpCode\Wordle\obj\Debug\net7.0\Wordle.pdb
+C:\Users\dante.vonmatern\Desktop\CSharpCode\Wordle\obj\Debug\net7.0\Wordle.genruntimeconfig.cache
+C:\Users\dante.vonmatern\Desktop\CSharpCode\Wordle\obj\Debug\net7.0\ref\Wordle.dll

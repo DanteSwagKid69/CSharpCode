@@ -242,7 +242,7 @@ namespace HangMan
 
                 case 1:
                     Console.WriteLine("   ___");
-                    Console.WriteLine("  |   |");
+                    Console.WriteLine("  |     |");
                     Console.WriteLine("  O   |");
                     Console.WriteLine(" /|\\  |");
                     Console.WriteLine(" /    |");
@@ -329,8 +329,6 @@ namespace HangMan
                     Console.WriteLine(" ");
                     Console.WriteLine("=========");
                     break;
-
-
             }
         }
     }

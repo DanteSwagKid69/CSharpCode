@@ -12,14 +12,6 @@ while (true)
 
     //Checking if the game has ended
     if (GameStateCheck(boardArray) != 0) break;
-    Console.Clear();
-
-    //Changing the color for player 2
-    Console.ForegroundColor = ConsoleColor.Blue;
-    Console.WriteLine("PLAYER 2");
-
-    //Drawing board
-    Board(boardArray);
 
     //Letting player 2 play
     PlayGame(2, boardArray);
@@ -109,6 +101,7 @@ static void PlayGame(int player, char[] boardArray)
 
     //Changing color for player depending on what player is playing
     if (player == 1) Console.ForegroundColor = ConsoleColor.Magenta;
+    else Console.ForegroundColor = ConsoleColor.Blue;
 
     Console.WriteLine("PLAYER " + player);
 
@@ -135,7 +128,16 @@ static void PlayGame(int player, char[] boardArray)
     while (boardArray[choosenTile] == 'X' || boardArray[choosenTile] == 'O')
     {
         Console.WriteLine("The place is occupied, try again: ");
-        choosenTile = int.Parse(Console.ReadLine());
+        //Check if the input is valid 
+        choosenTileString = Console.ReadLine();
+        while (!InputIsValid(choosenTileString))
+        {
+            Console.Clear();
+            Board(boardArray);
+            Console.WriteLine("The input is not valid, try again: ");
+            choosenTileString = Console.ReadLine();
+        }
+        choosenTile = int.Parse(choosenTileString);
     }
     boardArray[choosenTile] = symbolUsed;
 }

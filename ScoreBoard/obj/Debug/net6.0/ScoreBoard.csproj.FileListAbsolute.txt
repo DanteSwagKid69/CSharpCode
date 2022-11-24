@@ -1,0 +1,15 @@
+C:\Users\Axel\Desktop\CSharpCode\ScoreBoard\bin\Debug\net6.0\ScoreBoard.exe
+C:\Users\Axel\Desktop\CSharpCode\ScoreBoard\bin\Debug\net6.0\ScoreBoard.deps.json
+C:\Users\Axel\Desktop\CSharpCode\ScoreBoard\bin\Debug\net6.0\ScoreBoard.runtimeconfig.json
+C:\Users\Axel\Desktop\CSharpCode\ScoreBoard\bin\Debug\net6.0\ScoreBoard.dll
+C:\Users\Axel\Desktop\CSharpCode\ScoreBoard\bin\Debug\net6.0\ScoreBoard.pdb
+C:\Users\Axel\Desktop\CSharpCode\ScoreBoard\obj\Debug\net6.0\ScoreBoard.csproj.AssemblyReference.cache
+C:\Users\Axel\Desktop\CSharpCode\ScoreBoard\obj\Debug\net6.0\ScoreBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axel\Desktop\CSharpCode\ScoreBoard\obj\Debug\net6.0\ScoreBoard.AssemblyInfoInputs.cache
+C:\Users\Axel\Desktop\CSharpCode\ScoreBoard\obj\Debug\net6.0\ScoreBoard.AssemblyInfo.cs
+C:\Users\Axel\Desktop\CSharpCode\ScoreBoard\obj\Debug\net6.0\ScoreBoard.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\CSharpCode\ScoreBoard\obj\Debug\net6.0\ScoreBoard.dll
+C:\Users\Axel\Desktop\CSharpCode\ScoreBoard\obj\Debug\net6.0\refint\ScoreBoard.dll
+C:\Users\Axel\Desktop\CSharpCode\ScoreBoard\obj\Debug\net6.0\ScoreBoard.pdb
+C:\Users\Axel\Desktop\CSharpCode\ScoreBoard\obj\Debug\net6.0\ScoreBoard.genruntimeconfig.cache
+C:\Users\Axel\Desktop\CSharpCode\ScoreBoard\obj\Debug\net6.0\ref\ScoreBoard.dll
